@@ -1,2 +1,2 @@
-# krs-chamado
- Formulario de Controle para Chamados Técnicos
+# krs-chamados
+ Sistema de crisç~so de relatório de chamados para gráficas 
